@@ -1,4 +1,6 @@
-# Qv2ray Debian Repository
+# Qv2ray Debian Repository (Nightly)
+
+**This repo contains nightly version (dev) of Qv2ray, for stable version, please see https://github.com/Qv2ray/debian**
 
 This project is a Debian repository hosted on GitHub Pages.
 
@@ -20,7 +22,7 @@ NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstab
 $ sudo apt-get install gnupg ca-certificates curl
 
 # Import our GPG key. Notice the hyphen at the end of line.
-$ curl -sSL https://qv2ray.net/debian/pubkey.gpg | sudo apt-key add -
+$ curl -sSL https://qv2ray.net/debian-dev/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
 $ echo "deb [arch=amd64] https://qv2ray.net/debian-dev/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
@@ -43,7 +45,7 @@ NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstab
 $ sudo apt-get install gnupg ca-certificates curl
 
 # Import our GPG key. Notice the hyphen at the end of line.
-$ curl -sSL https://raw.fastgit.org/Qv2ray/debian/master/pubkey.gpg | sudo apt-key add -
+$ curl -sSL https://raw.fastgit.org/Qv2ray/debian-dev/master/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
 $ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian-dev/master/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
