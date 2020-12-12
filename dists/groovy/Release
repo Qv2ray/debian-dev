@@ -1,19 +1,19 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: groovy
-Date: Sat, 12 Dec 2020 11:06:47 UTC
+Date: Sat, 12 Dec 2020 11:10:55 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- b790f316230b71bc27414edb15e85f28 992 main/binary-amd64/Packages
- 0c1b865755d3ab653e1623b0e98d44b7 636 main/binary-amd64/Packages.gz
+ 3c9efff9bd4903096ce4255c2c6ea079 992 main/binary-amd64/Packages
+ 717304fc0b90cd5fba2f4a35e1b39263 638 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
 SHA1:
- f873c88371de27a140df12ed004c5ca4dadade39 992 main/binary-amd64/Packages
- 54aaf5d5362c4c356eaedba96f06d8f71a339de8 636 main/binary-amd64/Packages.gz
+ ea80928477f356cc185b4961854aafec0baa77c6 992 main/binary-amd64/Packages
+ c2486e29248bf57414ef8537789ab3b9dcbffba6 638 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
 SHA256:
- f26a663835ec95f7817106b66b6b8f9337bb04b3ee938f3e9f6084404621e786 992 main/binary-amd64/Packages
- 89d6d58cdcca3263860d303675ebb984e5cb315f945f4db072ff57f9c75cd6aa 636 main/binary-amd64/Packages.gz
+ d1429f487f4de6ecffdc9e31f5c42a2cef12ec859b68683939e44092b6efb035 992 main/binary-amd64/Packages
+ 3ed1a4edf2ac416aeade3524a3ef4c87bba65c5dda3e73a16b453278e19560a7 638 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
