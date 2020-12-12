@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Qv2ray
 Label: Qv2ray
 Codename: groovy
-Date: Sat, 12 Dec 2020 08:44:37 UTC
+Date: Sat, 12 Dec 2020 09:00:27 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- de7bc41cfb13998607e9f345be149806 992 main/binary-amd64/Packages
- bb87b1a1b98a73cadf0535e5ce9a1b2a 639 main/binary-amd64/Packages.gz
+ 19d4aabad2f6de29f4907e4a9167f48a 992 main/binary-amd64/Packages
+ 4b3ac747c3f825bde2702019e84e84d7 637 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
 SHA1:
- 09338268677e65e6a5a7f0409aeee0ae5544ea1a 992 main/binary-amd64/Packages
- 2560a02e5cec3e0c9abe31cd0926b4f1905b81d7 639 main/binary-amd64/Packages.gz
+ 5490d4ffc6661b0a619aafe501ed3c508b9a8f31 992 main/binary-amd64/Packages
+ 02d7a2ba6587bd4e77c5d15af54dcd7c52fd5f20 637 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
 SHA256:
- 6c33c71f375dd0ea8419d38f05f7e0ed1faafd973ef42fe8d7d158065490d61b 992 main/binary-amd64/Packages
- 7f4689e101cbda7ca242012a5ae8569119dad919250b077ba8c011b5afcfb874 639 main/binary-amd64/Packages.gz
+ 785549eefc9d2bdf21a6857d6dc9d11dc75ca975a6e2f219712ee43e93b23b04 992 main/binary-amd64/Packages
+ ca448012e5141017f8fe48a0ecba61c90af9b3df053ea9385143ca92165c9883 637 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl/UgvUACgkQJfhASNcA
-cIW9KBAAgYxAqvm0Xj+RzdAU7ePz8Ejf14ce6DUY0vTnkw3bOvqJjYzG28HgARV8
-DFfgvYq6ZsJLn02gMRTsmWK7v9GYdIZrauBIYwLe4LPPCK142uEP325squHFywXp
-rjdT8kQ8gljfgtjU0EIcP8To7P/gQtFUb1m1kv3PrxqRRTU3KqtpXev1acVwNybV
-8DIzYtLXMBpmiMNPNZrGGg8VGf2svhGgmzbAspG9X3lQ2MeTbR8SQAciE3AAPn0P
-e14XVp900dfOt1yM4VaCagS2Wkx4aP/ky6eu58WUTACT0EofhrN0kk7WZcIYbUFd
-h3IBPhUPnLrckrjVFEJWLu/posUf7CWoPhnQ7pr8mS8YTPZy1OPzleYPdr1sVuX/
-zEfyXZYvtP6C2qTkXZ9FeJG0nvealorX+g6r35Vc0SyE7FM09UBfwSd3gZUnsf03
-P+7t6EUtwL51WHwDhaMetavlKA7KlR60Z79l/iQLec13jbTyyIpPhyp2ZlMKxR9c
-ReG1bdrrjvTZrYnRfpEAUf0dBss8Htvreu3Br0q/JyjSkdO26UglmwzUUPglrDtY
-OZaOE4mkXcghyGxY+P6baap1L5Nj+Q7HdBGKddw93vtQdPJBQBr/c6SRcMBVfYfm
-2RsqNDV2YN/US0PtnjQSOs0AdEbdD0pTrlqEfpWgr9ovIwwPp+M=
-=RRIz
+iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl/UhqsACgkQJfhASNcA
+cIWx2xAA0H1LA9yTV8bxB95ynIgLN64Nyg6IAa4jB4TFNYQ4K+ELFWhU+Kw+6azQ
+I6EcuKzDKvaaKwwwEsemUuNjxD7s4QW3VboJThQPpKEkLTRtcYzeq+XX2e7+bGXA
+7bx44uSXZ00rgBrqHK3D4/JQQJE1lDaWB4XxVtVFzqqu5DIRyfE+Mhl1GKl+st3S
+uKeDqJBYa2KWUQ4gfX8pM2YLCYicls60H+Pjk64FV+uPCAp1idkF59PqEV7bNqyo
+J+upwDB7aEgxTciMg3rAGiuIvFm9ejE85Zvf4iwLLAXr5ayKoTTOMDvWlPEXje9/
+byOPWMb0M8JyIjMUugp+Bj992zFZNtbwbciI7yZSiBupzSiEjRmZwQfwBdpy8GW8
+VZW5RKRfzO+NT44gnOs/cjCjsD01gQ6lY4ld6YXS+khW5RPglhcr9pvsddQjM5mM
+8Ix4pZPf/hPAtwN1nZhdc9ze3CnepcHI8K5S72wtRwNMZn61tm+yIzMfJTCqRf3E
+YhSD+jmgiNHXW/3pV+P3JeJS8TcX6DzcGRTZYM2QNgdIb/PaXstynL7Y8yC1mvvl
+dtoJ+gEC66IYtHRYD46dG48HxX9h+EIzelkylKxxP98jNKdr5kElOwXl634J6hej
+S9M7VeeHtBMNdEDKD+oqEAE/EdL/NnjsoM9MLBDUXkJOvNMJjYs=
+=E95C
 -----END PGP SIGNATURE-----
