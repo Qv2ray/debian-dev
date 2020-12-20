@@ -1,19 +1,19 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: stable
-Date: Sun, 20 Dec 2020 17:46:10 UTC
+Date: Sun, 20 Dec 2020 22:38:24 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- e1762c8b2c553eb7134b1d55ca165b5a 979 main/binary-amd64/Packages
- 10d517ca06b3281d66a3b5e93b22e019 629 main/binary-amd64/Packages.gz
+ 0807112dceb5f7cecb303b29e60cb7f8 979 main/binary-amd64/Packages
+ f6bccedece7a621389b88af19e1496e5 627 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
 SHA1:
- 9f19ff0f13e6004b62a67d82a08b55409aac818d 979 main/binary-amd64/Packages
- 1993c9f70b5e785f6fe614f97ed23cc7da72a9ae 629 main/binary-amd64/Packages.gz
+ 19772efef4b00ff1de644598f6afcda5c865960c 979 main/binary-amd64/Packages
+ 0d0f139f43f1f79a8df7af36eaebc3b75966a0b7 627 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
 SHA256:
- fd3d318ff2e995f5af2541c2cd18a1438d04ff3936866334942e50bbcb89f763 979 main/binary-amd64/Packages
- 884ad318f5ab1986eb79fbc17faa23960965abe2d5e33316cc7a13ae4cda6f7a 629 main/binary-amd64/Packages.gz
+ 59f7d52270d5d2b077c3e62285dc6f1df3cf944c1b7a90092726a77f108af0a8 979 main/binary-amd64/Packages
+ e22ae90144bea6a074e5f2a605f915b845a68172313ed4001987c29c8a959181 627 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
