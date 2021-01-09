@@ -1,37 +1,37 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: stable
-Date: Sat, 09 Jan 2021 10:27:31 UTC
+Date: Sat, 09 Jan 2021 10:30:37 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- 6574abcedacb376057ba1a6f20a34111 979 main/binary-amd64/Packages
- a73dfee45fe55ed99dbbd915217a211d 630 main/binary-amd64/Packages.gz
+ 8dee73d491bc8d8ddd16ffaede3c400b 979 main/binary-amd64/Packages
+ 2323d875738d09f80f5ae6d74be9cbb6 630 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0db7114f2fb33d9949214bbf99ae66db 111 main/binary-i386/Release
- 5ad2eab2d31ed28c65f833847875c914 979 main/binary-arm64/Packages
- 4b08b8f60471219d059685b20a38b8d0 628 main/binary-arm64/Packages.gz
+ 099bd885aeaa1d5740ec28985708e982 979 main/binary-arm64/Packages
+ 584c82efeb6864e051bc7d052bd0653c 629 main/binary-arm64/Packages.gz
  abef57ccc6aa5bce190a6efeebc2fb2d 112 main/binary-arm64/Release
 SHA1:
- f56ada3c87fe04ff1ee67e1aa3855709dc0cd71f 979 main/binary-amd64/Packages
- 3e702339fd294e53f901181841f7f2844ca665ec 630 main/binary-amd64/Packages.gz
+ 52cd402f871bcff2362e6d7d071b8ab4359ff132 979 main/binary-amd64/Packages
+ cffa80469f281e354bb72932f6441cab9bd4190d 630 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  e1f3cdcd20a0e7f1a765309413e6728b34f47a54 111 main/binary-i386/Release
- e0990e4a46432a6b8b4c309a8bd5899d3afc250a 979 main/binary-arm64/Packages
- 13726fe7ffb970a7c30661943478a7ee47769088 628 main/binary-arm64/Packages.gz
+ 2a704c790c0476503c85f7b1020b24df4b2a9bfd 979 main/binary-arm64/Packages
+ 44861d0765ec84a009d0796883be10bddc62cb18 629 main/binary-arm64/Packages.gz
  7c87a7656257db5cbf2fd2ba1963a6c0d6f922ee 112 main/binary-arm64/Release
 SHA256:
- 8d5efc90de86dfe7c9d582d03910d7e77ddcd05f7c2d94758941154a0d3dedb0 979 main/binary-amd64/Packages
- 7cbde1aa0fce36a8f8dce0a25aec40e02fdfdd3005963a4c7c0fc8c21ee271ee 630 main/binary-amd64/Packages.gz
+ c773efbb089a0baef4354e6503c7b5b226b1f02daeb17578eb754f11fb2b0fc5 979 main/binary-amd64/Packages
+ 0a08923db76448b8cc242a4e4a425fec919fe16c14bd2976f065174b80771703 630 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  19b671307f59dbe104da30047c750927b1cea7bfb88f2fba38fc29aee530241b 111 main/binary-i386/Release
- f4f84b39fa5c596dd7e74b1b25b31a397ae3914499d247b0ab89e649e1a896bc 979 main/binary-arm64/Packages
- 7e3a67255ace35ca3b4f3b1f6ecc0c856d05f82e08697be8742eb0af0461d511 628 main/binary-arm64/Packages.gz
+ eddf46fceab8876bde22db02e1e56a2f1149b9c4840a9357b1b864cde0a4d101 979 main/binary-arm64/Packages
+ b1b3a01ef1fa3d995fbbd6ad25bdb7c4eb7b8553cf16fdb7970811a29cd21899 629 main/binary-arm64/Packages.gz
  42923bbb4f7b22736ebd60162159672073a63d05f54605c8cf25b4c7ec20c1b8 112 main/binary-arm64/Release
