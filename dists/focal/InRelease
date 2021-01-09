@@ -4,35 +4,44 @@ Hash: SHA512
 Origin: Qv2ray
 Label: Qv2ray
 Codename: focal
-Date: Fri, 08 Jan 2021 03:35:35 UTC
-Architectures: amd64
+Date: Sat, 09 Jan 2021 03:08:54 UTC
+Architectures: amd64 i386
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- f89ed01088f46c59f8b063c234d37f30 999 main/binary-amd64/Packages
- b8a6005da19e4285f043289f3c34e6f2 644 main/binary-amd64/Packages.gz
+ e1ee1e3b2c8994dd3a52c9ab2815b067 999 main/binary-amd64/Packages
+ a0f757bacfd1efaf1dd9def1d8e9b54c 643 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 0db7114f2fb33d9949214bbf99ae66db 111 main/binary-i386/Release
 SHA1:
- aef347ced3e8f367d48694ce460c1a8b09a83094 999 main/binary-amd64/Packages
- 2ebfd5105a09b3a5f8d710594da0e0b9c1a6fd64 644 main/binary-amd64/Packages.gz
+ 910ab1f85dbf62f4674ff247a61e96ba2584a60f 999 main/binary-amd64/Packages
+ 0e5c05c279c0b1d4e73865f631345f7eeb39141d 643 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ e1f3cdcd20a0e7f1a765309413e6728b34f47a54 111 main/binary-i386/Release
 SHA256:
- 75730e0516a93ec0fc163c164457181fe43deaec85e804314d21080e20e77290 999 main/binary-amd64/Packages
- c1a18ecd4ed8be41e41de89c03e4ce1c30b17874dae1fcfc808dd8bd850def3a 644 main/binary-amd64/Packages.gz
+ 346626973a79c9a7a7d1d43c4d9cd0ce538fdfa9f47102187b2c4776c76add88 999 main/binary-amd64/Packages
+ ca043715a1c7bfcfc666165194ad79d5333c01327bb44fdfc94815813beb731e 643 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 19b671307f59dbe104da30047c750927b1cea7bfb88f2fba38fc29aee530241b 111 main/binary-i386/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl/30wgACgkQJfhASNcA
-cIUpaw/7BRh1iKtISbIRTgE0AkP029vir2R2isMf8P/YcQWhiiLhHczRygihdHlS
-R1LjjaBBOtCL9/RN72yDkiJWnDR9ANVq7E0tMBCFDouC44uRN31iPEmddiZfYTgB
-4E4Ljk1uY9hviKx3NPdFdzsPEF73Jm1O1N8VRIu9pGUNYyuZtiGhT3M4vWWreMbo
-btHJCOCwrOzSM6qvYvdfyZTCKC/7f6WVJ8HVu7FRJqpk49s3FsZL5QoUKJczx3MI
-i8gbXgOBL+MWqayoMrcoQvdvWDrOBDhPl8WgwpSZHppqZlZEj2Cwn+ZBgy3hG7gp
-iERDkFGXWSh5oWS5Hk0J36qepZ9aN/k6CImnNpqR7qIphumDLnWJJ559jePBsFYo
-IogYxVZJqlWBlg6lDHDzLCelsDBXx8dOCYGURZAFSex3BoX5a0rkxUNOMjcpFpNI
-3Ajfpqv5zaF5dOnUp2/CXMYA/ArkqsvsaZSThKOHqsELU9zrE+o31BRoPoJSK1bj
-kZ0VuP5dWGQhUfBUYnWYnrflbDriv7NyeW8gwTuGXsd56fA49bfamoM9RRAlzGJ+
-niiTSAjXzwheKGiqBk5XZGVBijBZZEIG9W9OweMagWUYnKnvYVdq+YqJr01Pk7bg
-bTTYdKtZXQ3q5FefxCu0VbWOkyC9cvgGXlswTukj3J0zQbxOHx0=
-=tEhB
+iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl/5HkYACgkQJfhASNcA
+cIXdrRAAyGv5Vn12rVFl7ou3KzvdO4Gc1mK5e5B2Jk3XK/KkZDHwZWuACHgaE85r
+jH+xJ70Dhn4DaZkRbvUTcLxKGAqKjlMkanPqwNOO1yu44UUMkgoDcMa3wVE9quIr
+Y78FWfsHPv9oNlsiDQ6pzlDZIHS1TEfmh6J0DoHtLlQuWa1FBa4En+qVc0+CMlOp
+xYzB0VJ3ZobBL0Vz2s4OLvGY0X59I368iQ09cet1jJwjknjKzBkFQ/fuup9BHcWz
+113RykrMAJ5Ih8A++BMDPvgtTbGrmNy3XjPaetaEnjuONk2w6HOnbA1T3ddMEI+l
+qzZQQ/g/fSltN3BBGNYS6UNBPqW31AEL3qpnHRTJ5lAEDTd2JC8TVlFW86NY/BzG
+Erm/2NWfx+2cZVlSyWX6PNGlttoJ/v6be6c86hQaRHgfucvbnFytpy2L1w74kJF5
+mHTgTe65Y2KkLsSDMZOw0IklSTlYe4Lo3KEKp+nmjD9wzWB2VBiigreTrXmp/tIm
+INKrwp84G5zQ8bYDy5RskrHGxP4ob6tQIOAYQKi8tDwB1pWswBGKxwBpKEWv9IE+
+rMBcI7cnqQoDaMFILL0XIW9Mtj2adDwBSBjGDmAeNUqIsIbYRAdWZEYSLu4hu9lS
+J5BRn3PIrzty1tSaj+n3D/Cau+6XlGE2HUG+3PjeLoLQL8x937w=
+=omxV
 -----END PGP SIGNATURE-----
