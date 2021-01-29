@@ -1,46 +1,46 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: stable
-Date: Fri, 29 Jan 2021 13:35:54 UTC
+Date: Fri, 29 Jan 2021 13:37:50 UTC
 Architectures: amd64 i386 arm64 mips64el
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- 4edfa22af214d1e997b6543aad0fbaf1 979 main/binary-amd64/Packages
- a141a52b273585404baaf4fc9dccbfb5 628 main/binary-amd64/Packages.gz
+ 8b3837a4b6409adb6b3fc7e73a6a5032 979 main/binary-amd64/Packages
+ 9194668f9532bbb03bca1e1e39ed61c8 631 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0db7114f2fb33d9949214bbf99ae66db 111 main/binary-i386/Release
- e3006b34b3cc047d0e8d7058f4f42ea1 979 main/binary-arm64/Packages
- a4ef81497b566a88491932bf00d7d6da 629 main/binary-arm64/Packages.gz
+ 415e459f2c72a33bd830a5935d27a8de 979 main/binary-arm64/Packages
+ c4762735f1b97c49fb933742976961d1 628 main/binary-arm64/Packages.gz
  abef57ccc6aa5bce190a6efeebc2fb2d 112 main/binary-arm64/Release
- 86a59cf2fbd62236c2eb973ed80bfaf5 985 main/binary-mips64el/Packages
- 80bb4d07bac1f31ad1f02daf90efc3e0 633 main/binary-mips64el/Packages.gz
+ a871f1e539a358375d7ab7842d5b6e7c 985 main/binary-mips64el/Packages
+ 2eeedeb6f8c28025ceca95f5cacf495c 632 main/binary-mips64el/Packages.gz
  38dfe5a57f6fbcccf2ea3a216d5b106a 115 main/binary-mips64el/Release
 SHA1:
- 26759423030e0a89a2e6d82aeb7bcca1aba1f70c 979 main/binary-amd64/Packages
- 87b4912f9c3e3fb3ba8bd5f9b28fdcbf62f33ea1 628 main/binary-amd64/Packages.gz
+ f0b0e814596f4d92a886eddc7b1fe22e0e4753de 979 main/binary-amd64/Packages
+ 50412edad9e15656e8911457fef5445d9c405d07 631 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  e1f3cdcd20a0e7f1a765309413e6728b34f47a54 111 main/binary-i386/Release
- ea9754f0e60c2bfedc5cc4c6781ac58b19deeb80 979 main/binary-arm64/Packages
- b36ca80bd5577fd2d3ee5a40a8358b246a422d71 629 main/binary-arm64/Packages.gz
+ 92905b073420c374d59497a80793bd7d656b845c 979 main/binary-arm64/Packages
+ a4d06a7be9f5993ed9acf71b3705b598b0dddf84 628 main/binary-arm64/Packages.gz
  7c87a7656257db5cbf2fd2ba1963a6c0d6f922ee 112 main/binary-arm64/Release
- 3fc8ce53fbfec88b191f7266d1e1fef6e54ba6e7 985 main/binary-mips64el/Packages
- d686095d2a9eced81d0dbbef2e68bfc318b33346 633 main/binary-mips64el/Packages.gz
+ 5c1d9c8838788ead73f9f6aacac92db698bfa225 985 main/binary-mips64el/Packages
+ ca6b50438aa2848f04bbc8036128fcc479542b93 632 main/binary-mips64el/Packages.gz
  547028cd857c391a35d6af138a943c2768854f12 115 main/binary-mips64el/Release
 SHA256:
- 91ed8cd803b2b11e469b5bda95b22c325499ac783931d2728e31d80b3868cd6c 979 main/binary-amd64/Packages
- b3044b16d1673cc0b9199f33bad3a042ff71aa1504f1dfc35144d7654be6f7bb 628 main/binary-amd64/Packages.gz
+ 8284b0db42cd1dcc2f3c65449accfd85e36aff1b64fed20662150fcd918779fb 979 main/binary-amd64/Packages
+ 867fd0cfb90d06707321f4e25262eb834ae2b481e33facb6703e4624c3a71f37 631 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  19b671307f59dbe104da30047c750927b1cea7bfb88f2fba38fc29aee530241b 111 main/binary-i386/Release
- 1bf93fcd5a03ab1361428bf4e8486e013d827395bd1e5944ffbbc217f3fd654e 979 main/binary-arm64/Packages
- ce6a59145f7bb1de9d027b49a4a0da0bc9d9978ec95e6c66b65f43dc89598093 629 main/binary-arm64/Packages.gz
+ 968be34a5a361eb153261bc22e6c710842a2d75c53165004a5af65baee067809 979 main/binary-arm64/Packages
+ 6dbdc7c6c41715393f26f50b8855c242660ed6166c9510fcb109ec5d52dcea39 628 main/binary-arm64/Packages.gz
  42923bbb4f7b22736ebd60162159672073a63d05f54605c8cf25b4c7ec20c1b8 112 main/binary-arm64/Release
- 91a288bd2bf022b3ad1ff53ab4cbba6413a5521f558b811be827ba0cc034cfaa 985 main/binary-mips64el/Packages
- 971955dc459124a37fe7acacd08af98c9d9c8662482b7bf1164eb3c6d2cdb89c 633 main/binary-mips64el/Packages.gz
+ 010a96592da72c186f592acf50edd54ba0274e21fadf9a50ac32615c8ed84133 985 main/binary-mips64el/Packages
+ 150dea7e438cc1c6e0863292f46599b67cab362c8d26be5157204430ea7ac54e 632 main/binary-mips64el/Packages.gz
  dc165930cdefc6d490ca43c347f8ee55ec37945643a0f0daf41a265628ea68c8 115 main/binary-mips64el/Release
