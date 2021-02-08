@@ -1,27 +1,27 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: focal
-Date: Mon, 08 Feb 2021 15:35:01 UTC
+Date: Mon, 08 Feb 2021 15:45:24 UTC
 Architectures: amd64 i386
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- 03ea030f5f37386314770258abeacf33 999 main/binary-amd64/Packages
- b6dde93932fcc1e8385952080a26c2a0 643 main/binary-amd64/Packages.gz
+ 61286e252af3fcbb7821a2366d57d34c 999 main/binary-amd64/Packages
+ c9880b939a1fe4f4c4178e2d69433465 643 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0db7114f2fb33d9949214bbf99ae66db 111 main/binary-i386/Release
 SHA1:
- 68d970372b0c87ee2c68db9b69831deb6436f792 999 main/binary-amd64/Packages
- 6fd98f5ea8983e183df90c136bc18a51b0e5b10a 643 main/binary-amd64/Packages.gz
+ 65793a9f4409c82977b03688f3bc1f822d25e23e 999 main/binary-amd64/Packages
+ f0e2586b353aa0bb0de3bda1365e69659617a780 643 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  e1f3cdcd20a0e7f1a765309413e6728b34f47a54 111 main/binary-i386/Release
 SHA256:
- da4041e5d6161709831f7342adc3d3edd0cb9049455a2c2f25507798e28ba5f5 999 main/binary-amd64/Packages
- c7a324e71ada158dbf1a734de8a1ab5c06fde2b8407eb985db4324c156c4a066 643 main/binary-amd64/Packages.gz
+ 29addf10ef7e202d8eb999c631ae01459a0bea854621bc1fd4602d7741e0ea3a 999 main/binary-amd64/Packages
+ c448701b398102a7d4a291a9f0957874b674af863253a99eaaea9013ea5df381 643 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
