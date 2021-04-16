@@ -1,5 +1,5 @@
 Package: qv2ray
-Version: 20210413065719-1unstable1
+Version: 20210416145749-1unstable1
 Architecture: arm64
 Maintainer: Guobang Bi <ymshenyu@gmail.com>
 Installed-Size: 4350
@@ -8,11 +8,11 @@ Recommends: v2ray, qtwayland5
 Homepage: https://github.com/Qv2ray/Qv2ray
 Priority: optional
 Section: net
-Filename: pool/main/q/qv2ray/qv2ray_20210413065719-1unstable1_arm64.deb
-Size: 1286220
-SHA256: 0c5c2dbf90ce55862a53d6f498c59659c9567d6072425239a9720ba58c216b82
-SHA1: 6bf98e2fb8fa4577c790002157208332e36346fb
-MD5sum: 03c9cf5bbc28a6dcb268d16a06360385
+Filename: pool/main/q/qv2ray/qv2ray_20210416145749-1unstable1_arm64.deb
+Size: 1286684
+SHA256: d425ec35a709a0f90b2147ce408cfec29270483821fc3723fc6f4d79867d0c63
+SHA1: b80717631d8282d0594dd47feb96210aaa79cc7d
+MD5sum: cc7e5bc566613e59036a80950c41aa0f
 Description: Qt frontend for v2ray
  Project Qv2ray is a flexable cross platform Qt GUI client for V2ray.
  It makes everything easier by using GUI editors. It also supports
