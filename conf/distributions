@@ -24,7 +24,7 @@ SignWith: 1DD38BB9
 
 Origin: Qv2ray
 Label: Qv2ray
-Codename: groovy
+Codename: hirsute
 Architectures: amd64 i386
 Components: main
 Description: Apt repository for project Qv2ray
