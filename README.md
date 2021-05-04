@@ -9,13 +9,13 @@ This project is a Debian repository hosted on GitHub Pages.
 - Debian Buster
 - Debian Bullseye/Sid
 - Ubuntu 20.04 (Focal Fossa)
-- Ubuntu 20.10 (Groovy Gorilla)
+- Ubuntu 21.04 (Hirsute Hippo)
 
 ## Configuration
 
 ### Official Repository
 
-NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
+NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`hirsute`...) below.
 
 ```bash
 # Install some prerequisites needed by adding GPG public keys
@@ -38,7 +38,7 @@ $ sudo apt-get install qv2ray
 
 [![fastgit.org](https://img.shields.io/badge/powered--by-fastgit.org-blue)](https://fastgit.org/)
 
-NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
+NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`hirsute`...) below.
 
 ```bash
 # Install some prerequisites needed by adding GPG public keys
