@@ -8,14 +8,13 @@ This project is a Debian repository hosted on GitHub Pages.
 
 - Debian Buster
 - Debian Bullseye/Sid
-- Ubuntu 20.04 (Focal Fossa)
-- Ubuntu 21.04 (Hirsute Hippo)
+- Ubuntu 22.04 (Jammy Jellyfish)
 
 ## Configuration
 
 ### Official Repository
 
-NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`hirsute`...) below.
+NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`jammy`...) below.
 
 ```bash
 # Install some prerequisites needed by adding GPG public keys
