@@ -1,0 +1,20 @@
+Package: qv2ray
+Version: 20230525084045-1stable1
+Architecture: armhf
+Maintainer: Guobang Bi <ymshenyu@gmail.com>
+Installed-Size: 3335
+Depends: libc6 (>= 2.29), libcurl4 (>= 7.16.3), libgcc-s1 (>= 3.5), libgrpc++1 (>= 1.30.2), libgrpc10 (>= 1.30.2), libprotobuf23 (>= 3.12.4), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.11~), libqt5widgets5 (>= 5.12.2), libstdc++6 (>= 5.2)
+Recommends: v2ray, qtwayland5
+Homepage: https://github.com/Qv2ray/Qv2ray
+Priority: optional
+Section: net
+Filename: pool/main/q/qv2ray/qv2ray_20230525084045-1stable1_armhf.deb
+Size: 1298156
+SHA256: 5ef47bf0864943105bf21f69d111d97771302183b80d4a5dd30c322279dfde8b
+SHA1: d7c115c0d245d9121364da217e0248c2de6e37ad
+MD5sum: 5add61e09be1236f19da9d4ff1955944
+Description: Qt frontend for v2ray
+ Project Qv2ray is a flexable cross platform Qt GUI client for V2ray.
+ It makes everything easier by using GUI editors. It also supports
+ ShadowsicksR, Trojan and NaiveProxy by making them plugins.
+
