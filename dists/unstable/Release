@@ -1,13 +1,13 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: unstable
-Date: Mon, 08 Jan 2024 08:05:52 UTC
+Date: Tue, 25 Jun 2024 00:32:25 UTC
 Architectures: amd64 i386 arm64 mips64el
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- 663cf7929d68254900781d5243219f57 1085 main/binary-amd64/Packages
- a5877c608ba69d17172fcfd4360842b1 674 main/binary-amd64/Packages.gz
+ 759ccf7730366d4320707fd1e022e3a1 1106 main/binary-amd64/Packages
+ c7501c17c7f64ebcfd905b8e224f95a0 680 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  1fad39bd38a57c5d4f872c13eeadd066 658 main/binary-mips64el/Packages.gz
  38dfe5a57f6fbcccf2ea3a216d5b106a 115 main/binary-mips64el/Release
 SHA1:
- 947ffafe1f38061c913a2eb0d6c7ed4e3bd7a263 1085 main/binary-amd64/Packages
- c1bb0718c3403239a90d45347002b4f1044c6751 674 main/binary-amd64/Packages.gz
+ ecdebcd7ec3d0a3d47af289031cbae3a080ff70a 1106 main/binary-amd64/Packages
+ 9ef08b163a981c4017ec9ec8bb45cb0f203e52ff 680 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -32,8 +32,8 @@ SHA1:
  f6d2b99ff36f57d73a826da70f4e56a02452342a 658 main/binary-mips64el/Packages.gz
  547028cd857c391a35d6af138a943c2768854f12 115 main/binary-mips64el/Release
 SHA256:
- 48267c8e5f6257f9326143c19c9f3e428e30abfad3d675c7bb453e77eaa68e35 1085 main/binary-amd64/Packages
- 6f910e64eebb03b0ca04b47f91aad9b3bb309d7b3aa0d9683fd15e9ad00ab9e1 674 main/binary-amd64/Packages.gz
+ cb2f3136377c055928086e2c259d7b259b85bff547cff3628d08d5950786becb 1106 main/binary-amd64/Packages
+ 8591d4a0a4bbc90b9ae554ae39ef3013c5ccdca3a237755f2b411c893bc8d9df 680 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz

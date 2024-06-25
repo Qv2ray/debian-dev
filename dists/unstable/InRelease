@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: Qv2ray
 Label: Qv2ray
 Codename: unstable
-Date: Mon, 08 Jan 2024 08:05:52 UTC
+Date: Tue, 25 Jun 2024 00:32:25 UTC
 Architectures: amd64 i386 arm64 mips64el
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- 663cf7929d68254900781d5243219f57 1085 main/binary-amd64/Packages
- a5877c608ba69d17172fcfd4360842b1 674 main/binary-amd64/Packages.gz
+ 759ccf7730366d4320707fd1e022e3a1 1106 main/binary-amd64/Packages
+ c7501c17c7f64ebcfd905b8e224f95a0 680 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -22,8 +22,8 @@ MD5Sum:
  1fad39bd38a57c5d4f872c13eeadd066 658 main/binary-mips64el/Packages.gz
  38dfe5a57f6fbcccf2ea3a216d5b106a 115 main/binary-mips64el/Release
 SHA1:
- 947ffafe1f38061c913a2eb0d6c7ed4e3bd7a263 1085 main/binary-amd64/Packages
- c1bb0718c3403239a90d45347002b4f1044c6751 674 main/binary-amd64/Packages.gz
+ ecdebcd7ec3d0a3d47af289031cbae3a080ff70a 1106 main/binary-amd64/Packages
+ 9ef08b163a981c4017ec9ec8bb45cb0f203e52ff 680 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -35,8 +35,8 @@ SHA1:
  f6d2b99ff36f57d73a826da70f4e56a02452342a 658 main/binary-mips64el/Packages.gz
  547028cd857c391a35d6af138a943c2768854f12 115 main/binary-mips64el/Release
 SHA256:
- 48267c8e5f6257f9326143c19c9f3e428e30abfad3d675c7bb453e77eaa68e35 1085 main/binary-amd64/Packages
- 6f910e64eebb03b0ca04b47f91aad9b3bb309d7b3aa0d9683fd15e9ad00ab9e1 674 main/binary-amd64/Packages.gz
+ cb2f3136377c055928086e2c259d7b259b85bff547cff3628d08d5950786becb 1106 main/binary-amd64/Packages
+ 8591d4a0a4bbc90b9ae554ae39ef3013c5ccdca3a237755f2b411c893bc8d9df 680 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
@@ -49,17 +49,17 @@ SHA256:
  dc165930cdefc6d490ca43c347f8ee55ec37945643a0f0daf41a265628ea68c8 115 main/binary-mips64el/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAmWbrOAACgkQJfhASNcA
-cIV6qQ/9GWN/puuiC/veplmjztmqVEb59xGQnOSV8+4FxlIUvMlpeympsgD9V0fK
-uOBWL2z1syWRvCUFp7I5M7xiOAyBLTYX4BuKOUnr/8YQb26iDCa4YixH2SnLVKUG
-AMSJHeQz5VgAfBkBRSbIlGMFRbSfWuxOGKoTKqJ10RX9OC5n+4eeQtW5d3LkTNz0
-GOLn4+aXwVq0Aowu1aGLyov6nAh+XP9GBMXS3MKzsV2tPmBh30KGNjjMX9zo1tnS
-68MVWv0DtBxsJSv90ptfgve5u7uF3hnLFLXuQPTnwb/r+4p+7l1TgsP8HarOHw5s
-BbjYRbhbhtCJnp3pzb7gjF7LQERFXozrkxOV/cGKZLJGOHKkuKtsAcnhcckq8bnF
-+bKTM+ZghRmsPrPgzUfTDRFM245DMNVSEB9PET6pAPMZvkrWehMzXrZzQ9uuTZ14
-d4LBkOxmOASAlKmq7e2SCrVSM7g/dYBW6VSd5Oo2lSno4Nzqg8/ADeeT7JKjX+UL
-0qnhnVT0enti2BAzUr/3898JvDztEU13omwxTUAjr073ZRZwm0OhVA1/20DIBCb7
-t+NLbELVw2s/ico83TpbhHqvgR9+82VP2sSl5Q0WXf/XpS50vJgPHkAn2ixdOFEs
-f3FMl0/GB/WW3B2zpiZVteBnKZXyomCYoOEBpWFCPy5rKlbjNjo=
-=iOAr
+iQIyBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAmZ6EBkACgkQJfhASNcA
+cIXWBA/4qOQawSf9SL2sstq/pP/1K3FSXNZ67d0IQSz4MJCBAWz49qC6wCdTCx3e
+JJLQ15nthb3gd+EULGW/+vR+d5AWAF5VTUq9XkHvJkd+ebI0aafRAnl2wrgoRu77
+k2bk/kxxWQMnaTziTPtWMw/pxT6dp3E8aLW2RlFeIqCUhtKO0IP+ZIisPBByOfy9
+l9R2lJ8lMlcEmql2Wh/lBIKtb4civIj1oS6f3QBNa+AT9fQzV20fY9ZZK50sVRCE
+CKQBeofp1Zw5MW/Hg4tf36o9uWdvxXOAZLU+9jnTjwj7v9dvkCNZaXQUbF2AzWfn
+QWErHVNu7h6g7NdJVJgkd+NcKsgbLf+AGIfaI3Ypa7qRuF49A5Id08NMsmUA1Gss
+XyNPlxeGTSiynP++HeHxRu7C+AF25JaE5RzELs56SBnIMJVFjdqxUwDNvJenMlqE
+DDuMgg80pp5/ESgzCMQ4x85mYCu1yGDZcFLcxvUtXNH3riJubM9sNgJxrqgefAxv
+SYpW/aUBIYuL9GVNuffrA7g/uELrRNLbCciv+6dOATYS1J3waN6zoTlatSE50xXF
+YBFTKQLcmPy3O3348IZs4sPuMu7cs+RJM9WZqJ0WsjnhehF2dnFSM6BpePujShui
+kqLfyH37ztgcAukKYmjDR0vkcD8keGNIVGQmzEPrqI8WI6ba7w==
+=GLEU
 -----END PGP SIGNATURE-----
